@@ -1,0 +1,5 @@
+tasks.db
+pycache/
+.pytest_cache/
+tests/
+task_manager_api.ipynb
